@@ -63,6 +63,11 @@ with separation between:
 **Flutter** is used as the primary framework for building cross‑platform
 mobile applications.
 
+### Flutter Version Management
+
+**FVM** is used to manage the Flutter SDK version across projects.
+Use `fvm flutter ...` commands to ensure all developers use the same Flutter release.
+
 Advantages:
 
 -   Single codebase
