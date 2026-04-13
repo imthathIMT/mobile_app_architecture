@@ -29,7 +29,6 @@ This guide helps developers understand the mobile app architecture, set up the w
 - `app/`: app entry point, router, environment setup
 - `core/`: shared constants, networking, storage, utilities
 - `features/`: feature modules
-- `shared/`: reusable widgets and extensions
 - `main.dart`: app bootstrap
 
 ### Feature structure

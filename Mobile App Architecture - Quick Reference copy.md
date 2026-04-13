@@ -12,7 +12,7 @@ Flutter mobile app using **Feature-First Clean Architecture** with **Riverpod** 
 - **Networking**: dio ^5.4.0
 - **Error Handling**: dartz ^0.10.1
 - **Storage**: flutter_secure_storage ^9.0.0, hive ^2.2.3
-- **Code Generation**: - JSON Serializable: 6.9.4 (JSON serialization)
+- **Code Generation**: build_runner ^2.4.8, riverpod_generator ^2.3.9, hive_generator ^2.0.1
 - **Linting**: very_good_analysis ^6.0.0
 
 ## Architecture Layers

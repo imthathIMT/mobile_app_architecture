@@ -14,7 +14,7 @@ These rules define the architecture, coding, and delivery standards for Flutter 
 ### 2. Feature-first organization
 - Always organize code by feature under `lib/features/`
 - Each feature should contain `domain`, `data`, and `presentation`
-- Shared behavior belongs in `core/` or `shared/`
+- Shared behavior belongs in `core/`
 
 ### 3. Dependency direction
 - Dependencies must point inward toward the Domain layer
